@@ -1,0 +1,22 @@
+name: chat_app_flutter
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  dio: ^5.9.0
+  flutter:
+    sdk: flutter
+  socket_io: ^1.0.1
+  socket_io_client: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

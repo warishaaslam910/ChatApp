@@ -40,6 +40,6 @@ A real-time chat application built with a Node.js + Express backend, PostgreSQL 
 * Node.js & npm
 * Flutter SDK
 * Docker & Docker Compose
-* PostgreSQL (if not running in Docker)
+* PostgreSQL (running in Docker)
 
 
